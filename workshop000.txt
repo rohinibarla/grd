@@ -1,18 +1,44 @@
 Workshop - 000
-- Fixed Vs Growth Mindset
-- Learn core concepts of all programming languages
-- Learn to code using codeHS
-- Learn to build logic with RoboZZle
-- Learn the tools & practices used by industry to maintain code
-- Learn to use git tool
+
+You have a 1st year B.Tech student. What can you introduce him to, which is minimal? 
+
+The high level goal is to make him hooked to start exploring the computation field and solve interesting problem with technology.
+
+Here is a collection which I want to introduce to him. Only 2 topics are of discussion type, rest 4 topics are hands-on understanding.
+
+Mindset & industry 
+- mindset which sees a failure as part of learning
+- mindset which enables to put his best efforts in every situation
+- What industry expects from him?
+Coding 
+- core concepts of all programming languages
+- code using codeHS
+- build logic with RoboZZle
+Git tool and github service
+- use git tool
+- GitHub account will be Resume in future
 - Create a project in GitHub
-- Code to execution: Understand what is happening inside the system
-	- system architecture - CPU, RAM, BUS
-	- memory segments
-	- call stack
-	- compiler, loader, linker
-	- file formats 
-- Thought to code: Problem solving techniques
-- Understanding how networking works
-- See great work done by the technical leaders in software industry
+- the tools & practices used by industry to maintain code
 - open-source: use and contribute
+Code to execution
+- System internals
+  - system architecture - CPU, RAM, BUS
+  - memory segments
+  - call stack
+  - compiler, loader, linker
+  - file formats 
+- All the tools involved
+Networking
+- how distributed systems work
+- APIs
+- Systems involved for making today's computing to work
+Problem Solving 
+- systematic approach to solve problems 
+- Express his thought process in the computing medium
+Show the best of today's work
+- See great work done by the technical leaders in software industry
+
+Get him access to all the latest industry tools & services.
+
+Initiate him to complete Nand2Tetris part 1, to understand what happens inside the hardware 
+
