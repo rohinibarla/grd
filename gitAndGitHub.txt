@@ -1,0 +1,60 @@
+Git and GitHub Session
+
+1. Files & Directories
+- names
+- paths
+
+2. Unix commands
+cd, ls, mkdir, rmdir, pwd, cp, echo, cat, |, >, <, 
+
+Task:
+Create a directory tree as follows
+Bahubali
+- script
+	- episodes
+	- beginning
+	- conclusion
+- cast
+	- hero
+		- Prabhas
+	- heroine
+		- Anushka
+		- Thamanna
+	- villian
+		- Rana
+	- supporting
+		- Ramya Krishna
+		- Kattappa
+		- Nasir
+
+first using mouse and second using bash shell
+
+
+3. git commands necessary to maintain a repository
+- init, status, add, rm, commit, diff, log
+- use try git first half.
+
+Task:
+create a repo using these commands and update few files.
+
+4. git commands to sync with remote git
+- clone, push, pull, remote
+- use try git second half.
+
+5. SSH config
+- key generation, add to ssh-agent, copy and add it to github integration settings 
+
+Tasks:
+- config with github account.
+- use commands to clone and push and config as remote.
+
+6. Education package
+- add your college email id
+- put a request for pack
+
+You can use these references to learn on your own.
+- https://www.cs.utah.edu/~zachary/isp/tutorials/files/files.html
+- https://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners
+- http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- https://github.com/cubeton/git101/tree/master/TurtorialInfo
+
