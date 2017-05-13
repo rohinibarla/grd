@@ -1,0 +1,18 @@
+Workshop - 000
+- Fixed Vs Growth Mindset
+- Learn core concepts of all programming languages
+- Learn to code using codeHS
+- Learn to build logic with RoboZZle
+- Learn the tools & practices used by industry to maintain code
+- Learn to use git tool
+- Create a project in GitHub
+- Code to execution: Understand what is happening inside the system
+	- system architecture - CPU, RAM, BUS
+	- memory segments
+	- call stack
+	- compiler, loader, linker
+	- file formats 
+- Thought to code: Problem solving techniques
+- Understanding how networking works
+- See great work done by the technical leaders in software industry
+- open-source: use and contribute
