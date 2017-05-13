@@ -42,7 +42,7 @@ create a repo using these commands and update few files.
 - use try git second half.
 
 5. SSH config
-- key generation, add to ssh-agent, copy and add it to github integration settings 
+- key generation, add to ssh-agent, copy and add it to github settings 
 
 Tasks:
 - config with github account.
