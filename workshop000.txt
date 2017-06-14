@@ -2,7 +2,7 @@ Workshop - 000
 
 You have a 1st year B.Tech student. What can you introduce him to, which is minimal? 
 
-The high level goal is to make him hooked to start exploring the computation field and solve interesting problem with technology.
+The high level goal is to make him hooked to start exploring the computational field and solve interesting problem with technology.
 
 Here is a collection which I want to introduce to him. Only 2 topics are of discussion type, rest 4 topics are hands-on understanding.
 
