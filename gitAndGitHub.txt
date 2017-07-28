@@ -58,3 +58,6 @@ You can use these references to learn on your own.
 - http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 - https://github.com/cubeton/git101/tree/master/TurtorialInfo
 
+A very useful article on GitHub and Git
+https://www.robinwieruch.de/git-essential-commands/
+
