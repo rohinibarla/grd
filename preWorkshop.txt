@@ -1,0 +1,21 @@
+Instructions before the students come to the workshop.
+
+Create accounts in 
+twitter.com
+github.com
+codenvy.io
+
+Try to get education pack by providing photo of your id card.
+education.github.com
+
+Read modified Rabindranath Tagore's Parrots training story, to understand the current education system effects on people.
+https://github.com/rohinibarla/WorkshopFiles/raw/master/parrots_training_main.pdf
+
+Check how websites works
+http://nilclass.com/courses/how-websites-work/
+
+Check how to use git tool
+http://try.github.io
+
+
+
