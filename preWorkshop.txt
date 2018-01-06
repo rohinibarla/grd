@@ -17,5 +17,6 @@ http://nilclass.com/courses/how-websites-work/
 Check how to use git tool
 http://try.github.io
 
+Students must bring headphones or earphones to the workshop. Bring their laptop if they own one.
 
 

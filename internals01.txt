@@ -1,0 +1,99 @@
+
+File
+- Collection of papers for a specific purpose.
+// english meaning.
+
+In CS, we have files and folders. We organize our general data as files and folders. (sidenote: DB is orginized specific data for fast read/write/find access.) Examples. Our C program is a file. The stdio.h file we include is a file. The compiler we use to compile the program is also a file. The executable the compiler generates is a file. An App is a collection of files. A website is a collection of files. Our photos and Videos in Phone are files. A DB uses files to store it's configuration(settings) details. OS is collection of files. You create an iso file from CD. You download zip files. You have installation and setup files to install software and games. A game is a collection of files. 
+Each file has a format. A text file, docs file, mp3 file, mp4 file, zip file, jpg file will have different formats. Its called mp3 format, jpg format.
+
+Action:
+You might have seen the files in your computer. Find tools to explore the files in your mobile Phone. Check what are different files in your WhatsApp and FB App and your Game App and Phone App.
+
+
+
+Compilation
+- People compile books.
+
+In CS, the compiler takes a file as input and generates file as output. When there are any language errors in the program, it shows the errors and does not output a file. The input file is called program/code. The output program is called executable. The compiler tries to validate with the langugage rules. Internal steps like pre-processing, linking happens. When you give a collection of files as your program, the compiler generates one object file for every C file and the linker links these object files with library object files and generates executable file. The compiler traslates the program in C language to machine language i.e. instructions that the processor can execute.
+
+Action:
+generate the pre-processed file of a program.
+
+
+
+Executable.
+- // english meaning.
+
+Executable files have different formats in different OSes. In Unix flavoured machines it follows ETF (??? check this) format. In windows it follows PE format. An executable contains 2 sections: text section and data section. The text section contains the code and the data section contains the global and static variables from your C program. 
+
+Action:
+Open the executable with applications that can show the details of these sections properly.
+
+
+Operating System
+- // english meaning
+
+Given the hardware, provide an abstraction to the user to get his work done. The OS also provides all the basic foundation layers needed for an Application developer to develop Apps and run them. Some applications are packaged along with OS, because of their common use and to promote their companies products.
+
+
+Browser
+- // english meaning
+
+Browsers are where we .....
+
+
+Apps
+- When you use a technique to solve things it's called application of that technique.
+
+Apps are used by people to get their jobs done.
+
+
+
+Network
+- connection to different people and organizations that we maintain in life is called our network. We have close networks. closed network groups, open networking sessions happen in meetups.
+
+Network is the connections we have between machines and devices like security cameras....
+
+
+
+Internet
+- //
+
+Collection of networks
+
+
+RAM
+- //
+
+The more RAM we have the more fluid our interaction with our machines and the bigger tasks gets completed faster.
+
+
+Processor
+- //???
+
+Processor has a set of instructions that it can execute. It has a collection of registers and ???. Program counter (PC or instruction pointer) is a register of interest. The processor is very dumb. Processor has a clock. For every clock tick it reads the instruction from program counter register and executes it. It does this infinetly. The clock speed is what is referred to as speed of the processor. The program counter contains a location of the memory. It reads from the memory and executes it.
+
+Stack
+- stack of chair. Stack of Books.
+
+Stack is a data structure in CS, which is widely used in several programs.
+The interface has 3 methods isEmpty, pushNewElement, popTheLastElementPushed.
+
+
+Running program
+- run lola run
+
+When a program is run. The executable you have created from your program, when you run it. The executable file is read and loaded into the memory by loader. The loader reads the 2 sections text and data and loads them into memory segements: text segment and data segment. The stack segment and heap segement are initialized. The location of the main program in the memory is set in the program counter register inside the processor. As usual the process in the next clock tick reads this value and starts executing your program starting from the main function.
+
+
+Function Call Stack
+- stack of function activation records.
+
+In debugging when we have to inspect what is happening in the execution time. We pause the execution of the program and inspect the state how it has come to that state. The call stack is where the current set functions that are called starting from main and are in current execution state can be seen. The data in each function scope is observed for any differences from the expected state. Call stack is critical peice which is analyzed to find the issues that are present in our program......
+
+
+
+TODO:
+
+Add related links where videos and other things are available to see. Generate some videos from the Vizag coding group.
+
