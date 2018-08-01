@@ -11,13 +11,11 @@ Task:
 Create a directory tree as follows
 Bahubali
 - script
-	- episodes.txt
 	- beginning.txt
 	- conclusion.txt
 - cast
 	- hero.txt
 	- heroine.txt
-	- villian.txt
 
 first using mouse and second using bash shell
 
