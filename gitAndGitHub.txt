@@ -15,17 +15,9 @@ Bahubali
 	- beginning.txt
 	- conclusion.txt
 - cast
-	- hero
-		- Prabhas.txt
-	- heroine
-		- Anushka.txt
-		- Thamanna.txt
-	- villian
-		- Rana.txt
-	- supporting
-		- Ramya Krishna.txt
-		- Kattappa.txt
-		- Nasir.txt
+	- hero.txt
+	- heroine.txt
+	- villian.txt
 
 first using mouse and second using bash shell
 
